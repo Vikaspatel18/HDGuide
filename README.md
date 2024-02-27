@@ -203,3 +203,94 @@
 - **Enforce Policy:** Implement a policy requiring users to change their passwords at the next login after a reset, enhancing security.
 
 </details>
+
+## Troubleshooting Tips and Solutions
+
+<details>
+<summary><strong>Outlook Hangs When Sending Email</strong></summary>
+
+- **Problem:** Users experience Outlook freezing when sending emails from the US to Europe.
+- **Solution:** Move to cloud-based Microsoft 365 Exchange servers for improved latency and resource allocation.
+
+</details>
+
+<details>
+<summary><strong>Hard Drive Imminent Failure Warning</strong></summary>
+
+- **Problem:** Users receive a "smart hard disk error" indicating potential hard drive failure.
+- **Solution:** Immediate backup of data, run hard disk diagnostics, and check Event Viewer for critical errors.
+
+</details>
+
+<details>
+<summary><strong>Skype Login Issues</strong></summary>
+
+- **Problem:** Users unable to log into Skype, facing buffering and connection issues.
+- **Solution:** Check internet/network connection and verify login credentials.
+
+</details>
+
+<details>
+<summary><strong>Adobe Reader ACSM File Error</strong></summary>
+
+- **Problem:** Error encountered when attempting to open ACSM files with Adobe Reader.
+- **Solution:** Use Adobe Digital Editions to open ACSM files.
+
+</details>
+
+<details>
+<summary><strong>Deleting Recurring Teams Meeting</strong></summary>
+
+- **Problem:** Need to delete recurring Teams meetings when the organizer is unavailable.
+- **Solution:** Access the meeting series via the Outlook calendar to delete all instances.
+
+</details>
+
+<details>
+<summary><strong>Windows OS Upgrade to Windows 11</strong></summary>
+
+- **Problem:** Users need guidance on upgrading their operating system to Windows 11.
+- **Solution:** Verify system compatibility, perform all pending updates, and use Microsoft's update assistant.
+
+</details>
+
+<details>
+<summary><strong>TV Channel Changing Issue</strong></summary>
+
+- **Problem:** Unexpected channel changes, potentially due to remote control interference.
+- **Solution:** Investigate infrared signal interference or hardware issues with the remote.
+
+</details>
+
+<details>
+<summary><strong>Printing from SharePoint Issues</strong></summary>
+
+- **Problem:** Difficulties printing documents directly from SharePoint.
+- **Solution:** Ensure proper printer setup, convert documents to PDF for printing, and verify Office 365 licensing.
+
+</details>
+
+<details>
+<summary><strong>PC Repair for Blue Screen Messages</strong></summary>
+
+- **Problem:** PCs displaying blue screen and device recovery messages upon startup.
+- **Solution:** Test and possibly replace the hard drive.
+
+</details>
+
+<details>
+<summary><strong>Word Document Editing License Limitation</strong></summary>
+
+- **Problem:** Users unable to edit Word documents due to Office 365 license restrictions.
+- **Solution:** Upgrade the Office 365 license for editing capabilities or use the web version of Office.
+
+</details>
+
+<details>
+<summary><strong>Viewer Feedback and Support Request</strong></summary>
+
+- **Problem:** The need for viewer feedback and support due to reduced YouTube ad income.
+- **Solution:** Requests for engagement through likes, comments, and sharing to help support the channel.
+
+</details>
+
