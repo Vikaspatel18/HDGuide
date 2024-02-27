@@ -294,3 +294,85 @@
 
 </details>
 
+## Troubleshooting Tips and Solutions
+
+<details>
+<summary><strong>Invalid Password Message</strong></summary>
+
+- **Issue:** Users receiving an "invalid password" message when trying to log in.
+- **Solution:** Check the user's account status and reset the password if necessary. Ensure the user is properly connected to the network or domain and has not recently changed their password or forgotten it.
+
+</details>
+
+<details>
+<summary><strong>Computer Not Powering On</strong></summary>
+
+- **Issue:** User's computer does not power on.
+- **Solution:** Instruct the user to check all cables and connections, ensuring everything is correctly plugged in and the monitor is powered on. If the issue persists, escalate to local support.
+
+</details>
+
+<details>
+<summary><strong>WiFi Connectivity Problems</strong></summary>
+
+- **Issue:** Users experiencing intermittent disconnections from the WiFi network.
+- **Solution:** Check the router's settings for limitations on the number of simultaneous connections and adjust accordingly. This may involve accessing the router directly or contacting the internet service provider.
+
+</details>
+
+<details>
+<summary><strong>Router Login and Wi-Fi Connection Limit</strong></summary>
+
+- **Issue:** Need to access router settings to manage Wi-Fi connection limitations.
+- **Solution:** Use the default router login information to access settings and adjust the number of devices that can connect simultaneously. Changing the Wi-Fi channel frequency may also help reduce cross talk and improve connectivity.
+
+</details>
+
+<details>
+<summary><strong>OneDrive Access Issue</strong></summary>
+
+- **Issue:** Difficulty accessing OneDrive from a remote location.
+- **Solution:** Ensure the user is logging into OneDrive with their work email to access the business account, regardless of their location or the device they are using.
+
+</details>
+
+<details>
+<summary><strong>Microsoft Office Error</strong></summary>
+
+- **Issue:** Error messages when opening Microsoft Office files, indicating possible licensing or installation issues.
+- **Solution:** Verify the correct version of Office and its licensing or proceed to install Office through the official website if it's not installed.
+
+</details>
+
+<details>
+<summary><strong>Requests for Resume Review</strong></summary>
+
+- **Issue:** Unable to review resumes due to time constraints.
+- **Solution:** Focus on creating helpful videos for a broader audience and encourage viewers to leave comments for potential review in a future video.
+
+</details>
+
+<details>
+<summary><strong>Windows Explorer Freezing</strong></summary>
+
+- **Issue:** Windows Explorer freezes, possibly due to insufficient RAM, space, or processing power.
+- **Solution:** Check the network drive's availability and ensure the K Drive is online and correctly mapped. Running a system file check may also identify and repair corrupted system files.
+
+</details>
+
+<details>
+<summary><strong>Failed to Create Tray Icon</strong></summary>
+
+- **Issue:** Error message about failing to create a tray icon after a reboot.
+- **Solution:** Inspect the startup programs in Task Manager to find the problematic application and consider running a system file check to fix any corrupted OS files.
+
+</details>
+
+<details>
+<summary><strong>Adding User to Active Directory</strong></summary>
+
+- **Issue:** User ID and PC not recognized, indicating the user is not found in the active directory.
+- **Solution:** Verify the correct login ID and domain. If the user is indeed missing from the active directory, obtain permission from their supervisor to add them, ensuring the login ID is spelled correctly and searched within the appropriate domain or OU.
+
+</details>
+
