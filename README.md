@@ -58,3 +58,148 @@
 <p><strong>Issue:</strong> No sound when accessing a second computer via RDP.</p>
 <p><strong>Solution:</strong> Troubleshoot RDP settings and ensure sound is enabled.</p>
 </details>
+
+<details>
+<summary><strong>Domain Connectivity Issue</strong></summary>
+<p><strong>Problem:</strong> Users encounter a "Domain not available" error when trying to log in.</p>
+<p><strong>Solutions:</strong></p>
+<ul>
+  <li>Ensure the computer is connected to the network and properly joined to the domain.</li>
+  <li>Access advanced system settings to change the domain under "computer name" settings.</li>
+  <li>Physically check network connections and consider remote resolution options for users working from home.</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Password Management</strong></summary>
+<p><strong>Feedback & Suggestions:</strong></p>
+<ul>
+  <li>Address issues like forgotten passwords and expired passwords by ensuring users are informed about changing their passwords and advised on creating secure passwords.</li>
+  <li>Emphasize temporary passwords for security, especially in environments without VPN access, and the importance of not sharing passwords.</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Printer and Device Driver Installation</strong></summary>
+<p><strong>Challenges:</strong></p>
+<ul>
+  <li>Printers not working properly despite correct installation, often due to generic drivers.</li>
+  <li>Importance of selecting specific drivers for functionalities like secure printing.</li>
+  <li>Direct communication with users is necessary to understand and meet their specific printer requirements.</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Remote Work Support</strong></summary>
+<p><strong>Computer Issues:</strong></p>
+<ul>
+  <li>Addressing computer errors, reboots, and VPN connection issues, especially emphasizing proper shutdown habits and the importance of leaving computers on for updates.</li>
+  <li>Providing training for proper computer use in remote work settings, particularly concerning VPN connections.</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Service Management</strong></summary>
+<p><strong>Print Spooler Service:</strong></p>
+<ul>
+  <li>Solving issues with adding printers due to the print spooler service being stopped, often a security measure.</li>
+  <li>Differentiating between user-specific services and system services, with adjustments often requiring administrator privileges.</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Remote Service Management</strong></summary>
+<p><strong>Enabling Services Remotely:</strong></p>
+<ul>
+  <li>Demonstrating how to remotely start services, such as the print spooler, to resolve user issues without detailed technical explanations.</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Troubleshooting Hardware</strong></summary>
+<p><strong>Computer Crash Investigation:</strong></p>
+<ul>
+  <li>Investigating crashes and burning smells, often indicative of power supply issues due to overexertion or component degradation.</li>
+  <li>Recommending power supply replacement and outlining common failure reasons.</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Remote Desktop Audio</strong></summary>
+<p><strong>Audio Issues in Remote Desktop:</strong></p>
+<ul>
+  <li>Addressing problems with hearing audio from a second computer when using remote desktop by adjusting settings to play audio on the local computer.</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>VPN Troubleshooting</strong></summary>
+
+### Problem: VPN Connection Issues
+**Solutions:**
+- **Password Reset:** If the VPN password is forgotten or expired, reset it following the provider's procedure.
+- **Server Selection:** Choose a VPN server closer to your location for better speed and reliability.
+- **Reinstall VPN Software:** Uninstall and reinstall the VPN client if persistent issues occur, as this can fix corrupted files or settings.
+
+### Problem: Connecting to a Business VPN
+**Solutions:**
+- **Use Tokens for Security:** Employ security tokens if required by the business VPN for additional security during login.
+- **Follow Company Procedures:** Adhere to your company's specific guidelines for VPN access, including any software or security protocols.
+
+</details>
+
+<details>
+<summary><strong>Zoom Troubleshooting</strong></summary>
+
+### Problem: Audio and Setup Issues
+**Solutions:**
+- **Check Audio Settings:** Ensure your microphone and speakers are correctly configured in Zoom's audio settings.
+- **Test Video:** Verify your camera is working and properly set up before joining a meeting.
+
+</details>
+
+<details>
+<summary><strong>Hardware Issues: Broken Monitor</strong></summary>
+
+### Problem: Broken or Unresponsive Monitor
+**Solutions:**
+- **Check Connections:** Ensure all cables are securely connected to the monitor and the computer.
+- **Monitor Settings:** Adjust the monitor's settings or reset them to factory settings if accessible.
+- **External Monitor:** As a temporary solution, connect to an external monitor if available.
+
+</details>
+
+<details>
+<summary><strong>Software Installation: Windows 10</strong></summary>
+
+### Problem: Windows 10 Installation Issues
+**Solutions:**
+- **Follow Installation Guide:** Carefully follow the Windows 10 installation guide to avoid common pitfalls.
+- **Privacy Settings:** Pay attention to privacy settings during installation, opting out of features that collect data if preferred.
+- **Consider Alternatives:** If dissatisfied with Windows 10 due to privacy concerns or other reasons, consider switching to Linux.
+
+</details>
+
+<details>
+<summary><strong>Password Management for VPN</strong></summary>
+
+### Problem: Forgotten or Expired VPN Passwords
+**Solutions:**
+- **Reset Passwords Regularly:** Encourage regular password updates before expiration to prevent lockouts.
+- **Use Secure Passwords:** Implement strong, unique passwords for VPN access to enhance security.
+
+</details>
+
+<details>
+<summary><strong>Active Directory and User Account Management</strong></summary>
+
+### Problem: Locked User Accounts or Forgotten Passwords
+**Solutions:**
+- **Unlock Accounts:** Use Active Directory tools to unlock user accounts that have been locked due to incorrect login attempts.
+- **Reset Passwords:** Perform password resets for users who have forgotten their passwords, ensuring to follow security protocols such as mandatory password change on next login.
+
+### Problem: Mandatory Password Changes
+**Solutions:**
+- **Enforce Policy:** Implement a policy requiring users to change their passwords at the next login after a reset, enhancing security.
+
+</details>
